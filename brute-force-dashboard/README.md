@@ -69,7 +69,7 @@ Try it online here 👉 Streamlit Cloud Link (Replace with actual link if hosted
  <img src="screenshots/dashboard4.png" width="700"/>
  <img src="screenshots/dashboard5.png" width="700"/>
 
-
+```bash
 ```
 🛠️ 7.**Built With**:
 ```bash
