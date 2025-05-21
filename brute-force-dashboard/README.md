@@ -69,7 +69,7 @@ Try it online here 👉 Streamlit Cloud Link ([Replace with actual link if hoste
 <img src="screenshots/dashboard5.png" width="700"/>
 
 
-```
+
 🛠️ 7.**Built With**:
 
 Streamlit
@@ -80,8 +80,6 @@ Matplotlib
 
 Seaborn
 
-
-```
 🙋‍♀️ 8.**About Me**:
 
 Hi, I'm Manal Bafaraj! I'm currently learning about AI and cybersecurity through hands-on projects.
