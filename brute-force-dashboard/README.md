@@ -63,11 +63,11 @@ Try it online here 👉 Streamlit Cloud Link (Replace with actual link if hosted
 ```bash
 ### 📸 Screenshots
 
-![Dashboard 1](screenshots/dashboard1.png)
-![Dashboard 2](screenshots/dashboard2.png)
-![Dashboard 3](screenshots/dashboard3.png)
-![Dashboard 4](screenshots/dashboard4.png)
-![Dashboard 5](screenshots/dashboard5.png)
+<img src="screenshots/dashboard1.png" width="700"/>
+<img src="screenshots/dashboard2.png" width="700"/>
+<img src="screenshots/dashboard3.png" width="700"/>
+ <img src="screenshots/dashboard4.png" width="700"/>
+ <img src="screenshots/dashboard5.png" width="700"/>
 
 
 ```
@@ -87,9 +87,7 @@ Seaborn
 ```bash
 Hi, I'm Manal Bafaraj! I'm currently learning about AI and cybersecurity through hands-on projects.
 This dashboard is one of my first end-to-end projects in analyzing login threats using real data.
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/manal-bafaraj-799123264/) or share feedback 💬
-
-
+Feel free to connect on LinkedIn or share feedback 💬
 
 
 
