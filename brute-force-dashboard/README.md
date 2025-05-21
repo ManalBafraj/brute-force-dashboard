@@ -52,8 +52,9 @@ Make sure your Excel file contains at least the following columns:
 - `country` (optional)
 
 
+
 ```
-🌐5.** Live Demo**:
+🌐**5.Live Demo**
 ```bash
 Try it online here 👉 Streamlit Cloud Link (Replace with actual link if hosted)
 
