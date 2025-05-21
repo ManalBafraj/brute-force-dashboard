@@ -23,12 +23,12 @@ st.markdown("Welcome! This project analyzes brute force login attempts and displ
 # %% 1. Upload or Load Default Data
 uploaded_file = st.sidebar.file_uploader("📤 Upload Excel File", type=["xlsx"])
 
-if uploaded_file:
+if uploaded_file is not None:
     df = pd.read_excel(uploaded_file)
     st.sidebar.success("✅ File uploaded successfully!")
 else:
-    df = pd.read_excel("cleaned_login_data.xlsx")
-    st.sidebar.info("📁 Using default data")
+    st.sidebar.warning("⚠️ Please upload an Excel file to continue.")
+    st.stop()  # The app stope until user Upload Excel file
 
 # Timestamp processing
 if not pd.api.types.is_datetime64_any_dtype(df["timestamp"]):
