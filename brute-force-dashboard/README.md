@@ -61,11 +61,14 @@ Try it online here 👉 Streamlit Cloud Link (Replace with actual link if hosted
 ```
 📸 6.**Screenshots**:
 ```bash
-<img src="screenshots/dashboard1.png" width="700"/>  
-<img src="screenshots/dashboard2.png" width="700"/>  
-<img src="screenshots/dashboard3.png" width="700"/>  
-<img src="screenshots/dashboard4.png" width="700"/>  
-<img src="screenshots/dashboard5.png" width="700"/>
+### 📸 Screenshots
+
+![Dashboard 1](screenshots/dashboard1.png)
+![Dashboard 2](screenshots/dashboard2.png)
+![Dashboard 3](screenshots/dashboard3.png)
+![Dashboard 4](screenshots/dashboard4.png)
+![Dashboard 5](screenshots/dashboard5.png)
+
 
 ```
 🛠️ 7.**Built With**:
