@@ -61,7 +61,7 @@ Try it online here 👉 Streamlit Cloud Link (Replace with actual link if hosted
 ```
 📸 6.**Screenshots**:
 
-### 📸 Screenshots
+
 
 <img src="screenshots/dashboard1.png" width="700"/>
 <img src="screenshots/dashboard2.png" width="700"/>
