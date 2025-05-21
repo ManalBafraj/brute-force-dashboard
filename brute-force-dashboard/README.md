@@ -59,10 +59,9 @@ Make sure your Excel file contains at least the following columns:
 Try it online here 👉 Streamlit Cloud Link ([Replace with actual link if hosted](https://brute-force-dashboard-dmvtp8jvnhwctbwhb8hdan.streamlit.app/))
 
 
-```
 📸 6.**Screenshots**:
 
-```
+
 <img src="screenshots/dashboard1.png" width="700"/>
 <img src="screenshots/dashboard2.png" width="700"/>
 <img src="screenshots/dashboard3.png" width="700"/>
@@ -72,7 +71,7 @@ Try it online here 👉 Streamlit Cloud Link ([Replace with actual link if hoste
 
 ```
 🛠️ 7.**Built With**:
-```
+
 Streamlit
 
 Pandas
