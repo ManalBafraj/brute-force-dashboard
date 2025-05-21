@@ -56,9 +56,10 @@ Make sure your Excel file contains at least the following columns:
 ```
 🌐**5.Live Demo**
 ```bash
-Try it online here 👉 Streamlit Cloud Link (Replace with actual link if hosted)
+```
+Try it online here 👉 Streamlit Cloud Link ([Replace with actual link if hosted](https://brute-force-dashboard-dmvtp8jvnhwctbwhb8hdan.streamlit.app/))
 
-
+```bash
 ```
 📸 6.**Screenshots**:
 
