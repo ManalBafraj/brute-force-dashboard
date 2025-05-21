@@ -60,7 +60,7 @@ Try it online here 👉 Streamlit Cloud Link (Replace with actual link if hosted
 
 ```
 📸 6.**Screenshots**:
-```bash
+
 ### 📸 Screenshots
 
 <img src="screenshots/dashboard1.png" width="700"/>
@@ -87,7 +87,8 @@ Seaborn
 ```bash
 Hi, I'm Manal Bafaraj! I'm currently learning about AI and cybersecurity through hands-on projects.
 This dashboard is one of my first end-to-end projects in analyzing login threats using real data.
-Feel free to connect on LinkedIn or share feedback 💬
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/manal-bafaraj-799123264/) or share feedback 💬
+
 
 
 
