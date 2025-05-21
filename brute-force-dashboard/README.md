@@ -84,7 +84,7 @@ Seaborn
 
 ```
 🙋‍♀️ 8.**About Me**:
-```bash
+
 Hi, I'm Manal Bafaraj! I'm currently learning about AI and cybersecurity through hands-on projects.
 This dashboard is one of my first end-to-end projects in analyzing login threats using real data.
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/manal-bafaraj-799123264/) or share feedback 💬
