@@ -1,6 +1,7 @@
 # 🔐 Brute Force Attack Dashboard
 
-This is a simple interactive dashboard built with **Streamlit** that analyzes brute force login attempts and visualizes important statistics, alerts, and patterns.
+
+This is a simple interactive dashboard built with Streamlit that analyzes brute force login attempts and visualizes critical patterns, top IPs/passwords, and highlights suspicious activities through dynamic filters and charts.
 
 ---
 
